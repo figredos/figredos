@@ -2,7 +2,7 @@
 
 - Software Engineering student at Universidade de Brasília (UnB) since 2022
 - Intern at TRF1 (Federal Regional Court)
-- Currently learning JavaScript and Data Science
+- Currently studying Data Science and Machine learning
 - Developing app for Coffee shop Eximio Cacau
 
 ![Python](https://img.shields.io/badge/Python-%2302569B?style=flat&logo=python&logoColor=white)
