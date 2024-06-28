@@ -12,8 +12,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2302569B?style=flat&logo=tensorflow&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%2302569B.svg?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![C](https://img.shields.io/badge/-C-%2302569B.svg?logo=c%2B%2B&style=flat&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%2302569B?style=flat&logo=github&logoColor=white)
 
 ![profile count](https://komarev.com/ghpvc/?username=figredos&color=red) &nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/figredos?label=follow&style=social)](https://github.com/figredos)
