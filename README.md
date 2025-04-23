@@ -1,5 +1,4 @@
-- Currently studying Data Science and Machine learning
-- Developing app for Coffee shop Eximio Cacau
+- Currently studying medical applications of Deep Learning
 
 ![Python](https://img.shields.io/badge/Python-%2302569B?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%2302569B?style=flat&logo=pandas&logoColor=white)
