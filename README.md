@@ -1,5 +1,5 @@
-- Researching medical applications of Deep Learning for UnB
-- Researching World Foundation Models for CIS-IEEE/UnB
+- Researching medical applications of Deep Learning @ UnB
+- Researching World Foundation Models @ CIS-IEEE/UnB
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%2302569B.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%2302569B?style=flat&logo=tensorflow&logoColor=white)
